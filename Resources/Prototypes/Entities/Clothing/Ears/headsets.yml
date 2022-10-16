@@ -28,6 +28,21 @@
   - type: Clothing
     sprite: Clothing/Ears/Headsets/cargo.rsi
 
+    - type: entity
+  parent: ClothingHeadset
+  id: ClothingHeadsetSalvo
+  name: Salvage headset
+  description: A headset used by Salvage Specialists.
+  components:
+  - type: Headset
+    channels:
+    - Common
+    - Supply
+  - type: Sprite
+    sprite: Clothing/Ears/Headsets/cargo.rsi
+  - type: Clothing
+    sprite: Clothing/Ears/Headsets/cargo.rsi
+
 - type: entity
   parent: ClothingHeadset
   id: ClothingHeadsetQM
