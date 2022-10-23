@@ -14,7 +14,7 @@
       "name": "icon_alt"
     },
     {
-        "name": "icon_salvo"
+      "name": "icon_salvo"
     },
     {
       "name": "equipped-EARS",
@@ -25,8 +25,8 @@
       "directions": 4
     },
     {
-        "name": "salvo-equipped-EARS",
-        "directions": 4
+      "name": "salvo-equipped-EARS",
+      "directions": 4
       }
   ]
 }
